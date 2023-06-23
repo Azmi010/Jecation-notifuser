@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "APqhzlo/agLVKvqCww7ZVzLgFZjzwU7UiG51XfDUSnvT/jv3bPSwFXPtX/8bqjUeX1bLd2rjI6Oz2l9jGU++tg==",
+  "success": true,
+  "projectFilePath": "D:\\Kul\\S2\\PBO\\notifuser\\notifuser\\notifuser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
